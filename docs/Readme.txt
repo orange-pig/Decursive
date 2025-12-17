@@ -1,3 +1,17 @@
+## 中文版本
+
+Decursive(一键驱散)插件适用于经典魔兽Vanilla(1.12)版本的插件。
+
+本仓库主要是增加了中文本地化，未做其他更改。
+
+> 注意：部分翻译调整基于个人的游戏化和理解习惯，不一定适应所有人的语言习惯。由爱好者贡献，仅用于个人学习交流，请勿用于商业用途。
+
+## 一键驱散 1.10.2
+
+这是一个一键驱散插件，加载插件，绑定一个按键（或创建宏命令“/decursive”），然后运行，无需进一步的配置或编辑，它会自动配置。无论何时你想清除状态异常，或者甚至怀疑目标、小队或团队中有人带有异常状态，都可以运行这个插件。如果没有任何异常被清除，也不会有任何惩罚或冷却时间。
+
+## Decursive
+
 Decursive 1.9.8 (main download: http://www.2072productions.com/?to=decursive.php )
 
 (this description in mainly the original one written by Quu at http://ui.worldofwar.net/ui.php?id=997 )
